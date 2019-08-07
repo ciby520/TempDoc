@@ -22,6 +22,7 @@
     </properties>
 <!-- 说明修改了 -->
     <dependencies>
+             <!--引入WEB组件-->
         <dependency>
             <groupId>org.springframework.boot</groupId>
             <artifactId>spring-boot-starter-web</artifactId>
